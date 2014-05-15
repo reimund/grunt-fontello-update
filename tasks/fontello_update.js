@@ -9,9 +9,7 @@
 
 module.exports = function(grunt) {
 
-	var fontelloUpdate = require('fontello-update')
-	  , async          = require('async')
-	;
+	var fontelloUpdate = require('fontello-update');
 
 	grunt.registerTask('fontello_update', 'Update font files given a fontello config', function() {
 
