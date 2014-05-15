@@ -1,6 +1,6 @@
 {
   "name": "grunt-fontello-update",
-  "description": "Grunt task for updating fontello files.",
+  "description": "Grunt task for updating Fontello files.",
   "version": "0.1.0",
   "homepage": "https://github.com/reimund/",
   "author": {
