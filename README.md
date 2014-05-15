@@ -1,6 +1,6 @@
 # grunt-fontello-update
 
-> Grunt task for updating fontello files.
+> Grunt task for updating Fontello files.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
