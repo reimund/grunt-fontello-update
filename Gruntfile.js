@@ -26,7 +26,7 @@ module.exports = function(grunt) {
 		},
 
 		// Configuration to be run (and then tested).
-		fontello_update: {
+		fontelloUpdate: {
 			default_options: {
 				options: {},
 			},
@@ -37,7 +37,7 @@ module.exports = function(grunt) {
 	// Actually load this plugin's task(s).
 	grunt.loadTasks('tasks');
 
-	grunt.registerTask('test', ['fontello_update']);
+	grunt.registerTask('test', ['fontelloUpdate']);
 
 	// By default, lint and run all tests.
 	grunt.registerTask('default', ['jshint', 'test']);
