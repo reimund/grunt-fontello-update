@@ -21,7 +21,7 @@ module.exports = function(grunt) {
 		;
 		fontelloUpdate(this.options())
 			.then(function() {
-				grunt.log.ok('Successfully update fontello fonts');
+				grunt.log.ok('Successfully updated fontello fonts.');
 				done();
 			})
 			.catch(function(err) {
