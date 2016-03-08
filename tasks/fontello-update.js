@@ -11,7 +11,7 @@ module.exports = function(grunt) {
 
 	var fontelloUpdate = require('fontello-update');
 
-	grunt.registerTask('fontelloUpdate', 'Update font files given a fontello config', function() {
+	grunt.registerMultiTask('fontelloUpdate', 'Update font files given a fontello config', function() {
 
 		var done    = this.async()
 		  , options = this.options({
