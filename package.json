@@ -1,7 +1,7 @@
 {
   "name": "grunt-fontello-update",
   "description": "Grunt task for updating Fontello files.",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "homepage": "https://github.com/reimund/grunt-fontello-update",
   "author": "Reimund Trost <reimund@code7.se>",
   "repository": "reimund/grunt-fontello-update",
@@ -15,7 +15,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "fontello-update": "^0.6.2"
+    "fontello-update": "^0.6.4"
   },
   "devDependencies": {
     "load-grunt-tasks": "^3.5.2",
