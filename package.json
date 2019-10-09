@@ -15,7 +15,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "fontello-update": "^0.6.4"
+    "fontello-update": "^0.6.5"
   },
   "devDependencies": {
     "load-grunt-tasks": "^3.5.2",
